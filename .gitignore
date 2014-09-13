@@ -1,0 +1,12 @@
+.RData
+.Rhistory
+shinyapps
+.cache
+Makefile
+README.md
+index.Rmd
+index.md
+server.R
+ui.R
+UnitedStatesofAmerica.csv
+screenshot.png
