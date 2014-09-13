@@ -1,3 +1,11 @@
 .RData
 .Rhistory
 shinyapps
+.cache
+.nojekyll
+assets
+frameworks
+libraries
+highlighters
+index.html
+index.md
